@@ -6,12 +6,6 @@
 - 📫 How to contact me: ag5257720@gmail.com
 - 😄 Pronouns: He/Him
 
-<div style="display: inline_block"><br>
-  <img height="180"  src="https://github-readme-stats.vercel.app/api?username=Agabogabo&show_icons=true&theme=swift"/>
-  <img height="180"  src="https://github-readme-stats.vercel.app/api?username=Agabogabo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=swift"/>
-  <img height="180"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agabogabo&layout=compact"/>
-</div>
-
 ##
 
 <div style="display: inline_block"><br>
